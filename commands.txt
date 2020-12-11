@@ -1,0 +1,7 @@
+sshpwd 1
+sshcopy 2
+sshps 3
+sshdf 4
+sshsearch 5
+sshhistory 6
+sshlogout 7 
